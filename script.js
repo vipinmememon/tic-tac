@@ -47,7 +47,7 @@ box.addEventListener("click",() => {
     
    }
    box.disabled=true;
-  count++;
+  
 
   checkWinner();
   
